@@ -30,4 +30,5 @@ if (experiencia <= 1000){
 }else  
     rank = "Radiante"  
 
-console.log("\nCom todas essas poções, vamos descobrir, em que ranking o seu guerreiro se encaixa: " + rank)
+
+console.log("\nO Herói de nome " + nomeHeroi +  " está no nível de: " + rank)
